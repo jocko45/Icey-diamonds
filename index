@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icey Diamond Connect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Icey Diamond Connect</h1>
+        <p>The Icy Link to Your Next Piece</p>
+    </header>
+
+    <section class="gallery">
+        <div class="item">
+            <img src="images/necklace1.jpg" alt="Diamond Necklace 1">
+            <h2>Diamond Necklace</h2>
+            <p>$499.00</p>
+            <a href="https://cash.app/$kumekt" target="_blank" class="buy-btn">Buy Now</a>
+        </div>
+
+        <div class="item">
+            <img src="images/necklace2.jpg" alt="Diamond Necklace 2">
+            <h2>Luxury Iced Out Chain</h2>
+            <p>$799.00</p>
+            <a href="https://cash.app/$kumekt" target="_blank" class="buy-btn">Buy Now</a>
+        </div>
+
+        <div class="item">
+            <img src="images/necklace3.jpg" alt="Diamond Necklace 3">
+            <h2>VVS Tennis Necklace</h2>
+            <p>$999.00</p>
+            <a href="https://cash.app/$kumekt" target="_blank" class="buy-btn">Buy Now</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Icey Diamond Connect. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
